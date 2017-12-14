@@ -1,0 +1,9 @@
+C:\Users\Michal\Dropbox\projects_C\Mole\bin\Debug\Labyrinth.exe.config
+C:\Users\Michal\Dropbox\projects_C\Mole\bin\Debug\Labyrinth.exe
+C:\Users\Michal\Dropbox\projects_C\Mole\bin\Debug\Labyrinth.pdb
+C:\Users\Michal\Dropbox\projects_C\Mole\obj\Debug\Mole.GameWindow.resources
+C:\Users\Michal\Dropbox\projects_C\Mole\obj\Debug\Labyrinth.Properties.Resources.resources
+C:\Users\Michal\Dropbox\projects_C\Mole\obj\Debug\Mole.csproj.GenerateResource.Cache
+C:\Users\Michal\Dropbox\projects_C\Mole\obj\Debug\Mole.csproj.CoreCompileInputs.cache
+C:\Users\Michal\Dropbox\projects_C\Mole\obj\Debug\Labyrinth.exe
+C:\Users\Michal\Dropbox\projects_C\Mole\obj\Debug\Labyrinth.pdb

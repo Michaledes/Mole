@@ -1,0 +1,10 @@
+C:\Users\Michal\Dropbox\projects_C\Labyrinth\Labyrinth\bin\Debug\Labyrinth.exe.config
+C:\Users\Michal\Dropbox\projects_C\Labyrinth\Labyrinth\bin\Debug\Labyrinth.exe
+C:\Users\Michal\Dropbox\projects_C\Labyrinth\Labyrinth\bin\Debug\Labyrinth.pdb
+C:\Users\Michal\Dropbox\projects_C\Labyrinth\Labyrinth\obj\Debug\Labyrinth.csprojResolveAssemblyReference.cache
+C:\Users\Michal\Dropbox\projects_C\Labyrinth\Labyrinth\obj\Debug\Labyrinth.GameWindow.resources
+C:\Users\Michal\Dropbox\projects_C\Labyrinth\Labyrinth\obj\Debug\Labyrinth.Properties.Resources.resources
+C:\Users\Michal\Dropbox\projects_C\Labyrinth\Labyrinth\obj\Debug\Labyrinth.csproj.GenerateResource.Cache
+C:\Users\Michal\Dropbox\projects_C\Labyrinth\Labyrinth\obj\Debug\Labyrinth.csproj.CoreCompileInputs.cache
+C:\Users\Michal\Dropbox\projects_C\Labyrinth\Labyrinth\obj\Debug\Labyrinth.exe
+C:\Users\Michal\Dropbox\projects_C\Labyrinth\Labyrinth\obj\Debug\Labyrinth.pdb
